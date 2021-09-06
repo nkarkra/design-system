@@ -1,0 +1,3 @@
+[submodule "wsv-salesforce-ui_base"]
+	path = wsv-salesforce-ui_base
+	url = https://github.com/WorkSafeVictoria/wsv-salesforce-ui_base
